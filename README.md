@@ -9,6 +9,7 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
   </head>
   <body>
     <main>
+    <img src="" alt="" class="">
     <h1>Biblioteca</h1>
     </main>  
   </body>
