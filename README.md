@@ -5,7 +5,7 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
   <head>
     <meta charset="UTF-8">
     <title>Biblioteca</title>
-    <link="" rel="" href="">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
     <main>
