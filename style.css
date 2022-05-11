@@ -1,0 +1,42 @@
+body {
+  background-color: brown:
+}
+
+.encabezado {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.preambulo {
+  text-align: center;
+}
+
+.proposito {
+  text-align: justify;
+  font-size: 21px;
+}
+
+#navbar {
+  width: 100%;
+  height: 60px;
+  font-size: 21px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 5px;
+  background-color: gray;
+  text-transform: uppercase;
+}
+
+nav ul {
+  margin: 10px 20px 20px 10px;
+  padding: 5px 0px 5px 30px;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  text:
+}
+
+/* Tengo que arreglar el textto para que se acople a la caja, es decir, que sea más responsivo */
