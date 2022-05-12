@@ -83,4 +83,33 @@ nav li {
   grid-row: 6 / 7;
 }
 
+.ana7 {
+  background: gray;
+  grid-column: 7 / 6; 
+}
+
+.ana8 {
+  background: cyan;
+  grid-column: 6 / 5;
+}
+
+.ana9 {
+  background: blue;
+  grid-column: 5 / 4;
+}
+
+.ana10 {
+  background: purple;
+  grid-column: 4 / 3;
+}
+
+.ana11 {
+  background: violet;
+  grid-column: 3 / 2;
+}
+
+.ana12 {
+  background: brown;
+  grid-column: 2 / 1;
+}
 /* Tengo que arreglar el texto para que se acople a la caja, es decir, que sea más responsivo */
