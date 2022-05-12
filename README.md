@@ -4,7 +4,7 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Biblioteca</title>
+    <title>Biblioteca de Babel</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
