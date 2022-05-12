@@ -26,6 +26,14 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
     </header>
       <main>
       <h2>Anaqueles</h2>
+        <div class="container">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
       </main> 
   </body>
 </html>
