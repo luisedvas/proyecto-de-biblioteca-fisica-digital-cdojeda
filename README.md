@@ -28,12 +28,12 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
       <h2>Anaqueles</h2>
         <section>
           <div class="container">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
+            <div class="ana1">Anaquel 1</div>
+            <div class="ana2">Anaquel 2</div>
+            <div class="ana3">Anaquel 3</div>
+            <div class="ana4">Anaquel 4</div>
+            <div class="ana4">Anaquel 5</div>
+            <div class="ana5">Anaquel 6</div>
          </div>
        </section>
       </main> 
