@@ -25,8 +25,8 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
       <p class="proposito">El concepto generador para el diseño de esta web surge de la representación gráfica de la Biblioteca de Babel, descrita por Jorge Luis Borges en su cuento en 1941. Por lo tanto, tratará de ser sencilla.</p>
     </header>
       <main>
-      <h2>Anaqueles</h2>
         <section>
+      <h2>Anaqueles</h2>
           <div class="container">
             <div class="ana1">Anaquel 1</div>
             <div class="ana2">Anaquel 2</div>
