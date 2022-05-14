@@ -38,7 +38,7 @@ Propuesta para una biblioteca digital con opciones de pedidos de libros físicos
        </section>
       </main> 
     <footer>
-      <p><a target="_blank" href="">twiiter</a></p>
+      <p><a target="_blank" href="">twitter</a></p>
       <p><a target="_blank" href="">instagram</a></p>
       <p><a target="_blank" href="">discord</a></p>
       <p><a target="_blank" href="">youtube</a></p>
